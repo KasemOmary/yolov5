@@ -1,10 +1,9 @@
 <div align="center">
   <p>
-    <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov5/v70/splash.png"></a>
+    <h1>This repo is simply a rewind back to a release prior to the AGPL change to YoloV5. It's that simple.</h1>
   </p>
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) 
 <br>
 
 <div>
